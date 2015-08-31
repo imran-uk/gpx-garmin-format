@@ -54,4 +54,6 @@ sub usage {
   say "Output file will be named <file-out.gpx>";
 }
 
+=pod
 
+=cut

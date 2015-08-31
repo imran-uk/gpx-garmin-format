@@ -16,8 +16,8 @@ is named "South Downs Way" or whatever it was originally.
 
     ./format-gpx-garmix.pl <file.gpx>
 
-Output file will be named <file-out.gpx>
+Output file will be named `<file-out.gpx>`
 
-There are some GPX routes included for you to process and try out.
+There are some GPX routes included for you to process with the script and try out.
 
-Once you have a collection of "out" files you can just put them in a dir/folder and then copy that to the `Garmin/GPX` folder of your device. When you turn on your device it will find and index the new routes.
+Once you have a collection of "out" files you can just put them all in a directory and then copy that to the `Garmin/GPX` directory of your device. When you turn on your device it will find and index the new routes.
